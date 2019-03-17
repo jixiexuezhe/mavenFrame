@@ -1,0 +1,36 @@
+@charset "utf-8";
+#kw {
+	width: 421px;
+	height: 40px;
+	padding: 9px 7px;
+	padding: 11px 7px 7px\9;
+	font: 16px arial;
+	border: 1px solid #d8d8d8;
+	border-bottom: 1px solid #ccc;
+	vertical-align: top;
+	outline: none;
+}
+
+
+.myform {
+	position:relative;
+	top:5px;
+	text-align: center;
+	z-index: 300;
+	height: 50px;
+	color:red;
+}
+
+.myinput {
+	cursor: pointer;
+    position:relative;
+    left:5px;
+	width: 102px;
+	height: 38px;
+	line-height: 38px;
+	padding: 0;
+	border: 0;
+	background-color: #38f;
+	font-size: 16px;
+	color: white;
+}
